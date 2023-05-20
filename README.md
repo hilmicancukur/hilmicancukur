@@ -1,10 +1,10 @@
-### Hi, I’m @hilmicancukur 👋
+## Hi, I’m @hilmicancukur 👋
 
 I am a front-end developer who wants to make dominate world with web applications. The my main goal is making website with latest standards near of the ugliest website.
 
 [<img src="hilmican.jpg" width="175"/>](https://www.hilmican.com)
 
-### 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hilmican)
 [![Website](https://img.shields.io/badge/website-%230d6518.svg?logo=hypothesis&logoColor=white)](https://www.hilmican.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hilmicancukur)
@@ -13,7 +13,7 @@ I am a front-end developer who wants to make dominate world with web application
 [![Codepen](https://img.shields.io/badge/Codepen-%230d6518.svg?logo=codepen&logoColor=white)](https://codepen.io/hilmican) 
 [![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?logo=gitlab&logoColor=white)](https://codepen.io/hilmican) 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
